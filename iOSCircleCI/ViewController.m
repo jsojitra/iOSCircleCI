@@ -27,3 +27,31 @@
 
 
 @end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+
+ Choose Product > Scheme > Manage Schemes.
+ Select the Shared option for the scheme to share, and click Close.
+ Choose Source Control > Commit.
+ Select the Shared Data folder.
+ Enter your commit message in the text field.
+ Select the “Push to remote” option (if your project is managed with Git).
+ Click the Commit Files button.
+ 
+*/
